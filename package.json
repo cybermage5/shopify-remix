@@ -4,13 +4,9 @@
   "private": true,
   "sideEffects": false,
   "type": "module",
-  "author": {
-    "name": "Harshdeep Singh Hura",
-    "url": "https://harshdeephura.com"
-  },
   "repository": {
     "type": "git",
-    "url": "https://github.com/kinngh/shopify-remix-app.git"
+    "url": "https://github.com/cybermage5/shopify-remix.git"
   },
   "scripts": {
     "build": "remix vite:build",
